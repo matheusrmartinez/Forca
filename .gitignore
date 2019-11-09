@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Trabalho_Ex004/bin/Debug
+/Trabalho_Ex004/obj/Debug
+/Trabalho_Ex004/Properties
+*.config
+*.csproj
+/.vs/Trabalho_Ex004/v16
